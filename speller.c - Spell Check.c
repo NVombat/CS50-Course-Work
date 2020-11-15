@@ -1,4 +1,5 @@
 // Implements a spell-checker
+//Pre Written By course To calculate Time
 
 #include <ctype.h>
 #include <stdio.h>
